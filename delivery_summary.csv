@@ -1,0 +1,31 @@
+OrderID,Date,Driver,Status,Time_taken_min,Cost,Route
+1001,2024-10-20,Emma,Cancelled,84,38.13,San Antonio → Houston
+1002,2024-10-24,David,Delivered,228,79.43,Fort Worth → Dallas
+1003,2024-10-31,Emma,Delivered,105,43.27,Fort Worth → Houston
+1004,2024-10-17,John,Delivered,128,47.75,San Antonio → Austin
+1005,2024-10-12,John,Delivered,157,76.42,Fort Worth → San Antonio
+1006,2024-10-24,Emma,Delivered,131,44.37,Fort Worth → Dallas
+1007,2024-10-06,David,Delivered,102,43.89,Fort Worth → Houston
+1008,2024-10-18,John,Delivered,144,72.62,Austin → Houston
+1009,2024-10-23,Emma,Delivered,115,58.77,Dallas → Houston
+1010,2024-10-26,David,Cancelled,119,41.64,Fort Worth → San Antonio
+1011,2024-10-22,Mike,Delivered,120,42.27,San Antonio → Austin
+1012,2024-10-17,Sara,Delivered,152,72.18,Houston → Fort Worth
+1013,2024-10-07,Emma,Delivered,151,56.56,Dallas → Austin
+1014,2024-10-26,David,Delivered,97,50.49,Houston → Austin
+1015,2024-10-07,Emma,Delivered,122,59.75,Fort Worth → Houston
+1016,2024-10-12,Sara,Delivered,134,65.03,Dallas → San Antonio
+1017,2024-10-24,Emma,Delivered,223,76.44,Austin → San Antonio
+1018,2024-10-31,Mike,Delivered,103,43.0,Fort Worth → Dallas
+1019,2024-10-15,Emma,Delivered,88,45.11,Houston → San Antonio
+1020,2024-10-03,David,Delivered,231,69.75,San Antonio → Dallas
+1021,2024-10-23,Emma,Delivered,152,74.39,Houston → Dallas
+1022,2024-10-15,Mike,Delivered,156,65.67,San Antonio → Dallas
+1023,2024-10-07,Sara,Delivered,103,60.91,Austin → San Antonio
+1024,2024-10-18,John,Cancelled,183,88.22,Houston → San Antonio
+1025,2024-10-13,Mike,Delivered,139,32.73,San Antonio → Dallas
+1026,2024-10-05,David,Delivered,219,73.29,Austin → Fort Worth
+1027,2024-10-23,Sara,Delivered,180,77.18,Austin → Dallas
+1028,2024-10-22,Sara,Delivered,203,60.52,Austin → Fort Worth
+1029,2024-10-04,John,Delivered,224,82.95,San Antonio → Houston
+1030,2024-10-19,David,Delivered,153,66.53,Houston → Austin

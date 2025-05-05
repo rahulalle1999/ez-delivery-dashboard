@@ -1,0 +1,31 @@
+OrderID,Pickup,Drop,Distance_km,Time_taken_min,Driver,Cost,Status,Date,Customer
+1001,San Antonio,Houston,207,84,Emma,38.13,Cancelled,2024-10-20,Sophia
+1002,Fort Worth,Dallas,381,228,David,79.43,Delivered,2024-10-24,Emily
+1003,Fort Worth,Houston,250,105,Emma,43.27,Delivered,2024-10-31,Alex
+1004,San Antonio,Austin,278,128,John,47.75,Delivered,2024-10-17,Noah
+1005,Fort Worth,San Antonio,329,157,John,76.42,Delivered,2024-10-12,Mia
+1006,Fort Worth,Dallas,256,131,Emma,44.37,Delivered,2024-10-24,James
+1007,Fort Worth,Houston,226,102,David,43.89,Delivered,2024-10-06,Liam
+1008,Austin,Houston,331,144,John,72.62,Delivered,2024-10-18,Noah
+1009,Dallas,Houston,269,115,Emma,58.77,Delivered,2024-10-23,Ava
+1010,Fort Worth,San Antonio,208,119,David,41.64,Cancelled,2024-10-26,Mia
+1011,San Antonio,Austin,226,120,Mike,42.27,Delivered,2024-10-22,Emily
+1012,Houston,Fort Worth,301,152,Sara,72.18,Delivered,2024-10-17,Noah
+1013,Dallas,Austin,277,151,Emma,56.56,Delivered,2024-10-07,Olivia
+1014,Houston,Austin,203,97,David,50.49,Delivered,2024-10-26,Ravi
+1015,Fort Worth,Houston,279,122,Emma,59.75,Delivered,2024-10-07,Emily
+1016,Dallas,San Antonio,290,134,Sara,65.03,Delivered,2024-10-12,Noah
+1017,Austin,San Antonio,384,223,Emma,76.44,Delivered,2024-10-24,Noah
+1018,Fort Worth,Dallas,226,103,Mike,43.0,Delivered,2024-10-31,Sophia
+1019,Houston,San Antonio,205,88,Emma,45.11,Delivered,2024-10-15,Liam
+1020,San Antonio,Dallas,380,231,David,69.75,Delivered,2024-10-03,Sophia
+1021,Houston,Dallas,341,152,Emma,74.39,Delivered,2024-10-23,Olivia
+1022,San Antonio,Dallas,374,156,Mike,65.67,Delivered,2024-10-15,Alex
+1023,Austin,San Antonio,249,103,Sara,60.91,Delivered,2024-10-07,Mia
+1024,Houston,San Antonio,393,183,John,88.22,Cancelled,2024-10-18,Noah
+1025,San Antonio,Dallas,210,139,Mike,32.73,Delivered,2024-10-13,Olivia
+1026,Austin,Fort Worth,358,219,David,73.29,Delivered,2024-10-05,Sophia
+1027,Austin,Dallas,348,180,Sara,77.18,Delivered,2024-10-23,Mia
+1028,Austin,Fort Worth,327,203,Sara,60.52,Delivered,2024-10-22,Ravi
+1029,San Antonio,Houston,357,224,John,82.95,Delivered,2024-10-04,James
+1030,Houston,Austin,293,153,David,66.53,Delivered,2024-10-19,Alex
