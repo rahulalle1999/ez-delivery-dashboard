@@ -59,7 +59,7 @@ ez-delivery-dashboard/
 
 👋 Hi, I'm **Rahul Alle**, a graduate student and aspiring Data Engineer. This project showcases my ability to integrate Python, SQL, and BI tools to solve real business problems.
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/rahulalle)
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-alle)
 
 ---
 
